@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AuxilioKilowPag/1.0.0": {
+        "runtime": {
+          "AuxilioKilowPag.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuxilioKilowPag/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

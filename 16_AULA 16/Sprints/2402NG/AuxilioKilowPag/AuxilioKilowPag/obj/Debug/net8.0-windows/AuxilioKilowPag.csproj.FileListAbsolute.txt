@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\bin\Debug\net8.0-windows\AuxilioKilowPag.exe
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\bin\Debug\net8.0-windows\AuxilioKilowPag.deps.json
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\bin\Debug\net8.0-windows\AuxilioKilowPag.runtimeconfig.json
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\bin\Debug\net8.0-windows\AuxilioKilowPag.dll
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\bin\Debug\net8.0-windows\AuxilioKilowPag.pdb
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.Form1.resources
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.AssemblyInfo.cs
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.dll
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\refint\AuxilioKilowPag.dll
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.pdb
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\AuxilioKilowPag.genruntimeconfig.cache
+C:\Users\senai\source\repos\AuxilioKilowPag\AuxilioKilowPag\obj\Debug\net8.0-windows\ref\AuxilioKilowPag.dll
