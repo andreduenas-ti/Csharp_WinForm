@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\bin\Debug\net8.0-windows\IMCexercSala.exe
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\bin\Debug\net8.0-windows\IMCexercSala.deps.json
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\bin\Debug\net8.0-windows\IMCexercSala.runtimeconfig.json
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\bin\Debug\net8.0-windows\IMCexercSala.dll
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\bin\Debug\net8.0-windows\IMCexercSala.pdb
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.Form1.resources
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.AssemblyInfo.cs
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.dll
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\refint\IMCexercSala.dll
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.pdb
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\IMCexercSala.genruntimeconfig.cache
+C:\Users\senai\source\repos\IMCexercSala\IMCexercSala\obj\Debug\net8.0-windows\ref\IMCexercSala.dll
