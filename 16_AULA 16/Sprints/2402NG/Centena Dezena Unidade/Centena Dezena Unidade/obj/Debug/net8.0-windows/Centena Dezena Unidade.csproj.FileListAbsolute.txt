@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\bin\Debug\net8.0-windows\Centena Dezena Unidade.exe
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\bin\Debug\net8.0-windows\Centena Dezena Unidade.deps.json
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\bin\Debug\net8.0-windows\Centena Dezena Unidade.runtimeconfig.json
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\bin\Debug\net8.0-windows\Centena Dezena Unidade.dll
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\bin\Debug\net8.0-windows\Centena Dezena Unidade.pdb
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena_Dezena_Unidade.Form1.resources
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.AssemblyInfo.cs
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.dll
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\refint\Centena Dezena Unidade.dll
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.pdb
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\Centena Dezena Unidade.genruntimeconfig.cache
+C:\Users\senai\source\repos\Centena Dezena Unidade\Centena Dezena Unidade\obj\Debug\net8.0-windows\ref\Centena Dezena Unidade.dll
