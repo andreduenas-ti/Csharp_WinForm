@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\bin\Debug\net8.0-windows\IMCcalc.exe
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\bin\Debug\net8.0-windows\IMCcalc.deps.json
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\bin\Debug\net8.0-windows\IMCcalc.runtimeconfig.json
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\bin\Debug\net8.0-windows\IMCcalc.dll
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\bin\Debug\net8.0-windows\IMCcalc.pdb
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.Form1.resources
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.AssemblyInfo.cs
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.dll
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\refint\IMCcalc.dll
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.pdb
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\IMCcalc.genruntimeconfig.cache
+C:\Users\senai\source\repos\IMCcalc\IMCcalc\obj\Debug\net8.0-windows\ref\IMCcalc.dll
