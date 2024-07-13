@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\bin\Debug\net8.0-windows\TabuadaCoach.exe
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\bin\Debug\net8.0-windows\TabuadaCoach.deps.json
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\bin\Debug\net8.0-windows\TabuadaCoach.runtimeconfig.json
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\bin\Debug\net8.0-windows\TabuadaCoach.dll
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\bin\Debug\net8.0-windows\TabuadaCoach.pdb
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.Form1.resources
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.AssemblyInfo.cs
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.dll
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\refint\TabuadaCoach.dll
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.pdb
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\TabuadaCoach.genruntimeconfig.cache
+C:\Users\senai\source\repos\TabuadaCoach\TabuadaCoach\obj\Debug\net8.0-windows\ref\TabuadaCoach.dll
