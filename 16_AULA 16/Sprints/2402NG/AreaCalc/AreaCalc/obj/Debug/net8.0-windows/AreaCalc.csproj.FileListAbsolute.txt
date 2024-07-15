@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\bin\Debug\net8.0-windows\AreaCalc.exe
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\bin\Debug\net8.0-windows\AreaCalc.deps.json
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\bin\Debug\net8.0-windows\AreaCalc.runtimeconfig.json
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\bin\Debug\net8.0-windows\AreaCalc.dll
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\bin\Debug\net8.0-windows\AreaCalc.pdb
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.Form1.resources
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.AssemblyInfo.cs
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.dll
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\refint\AreaCalc.dll
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.pdb
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\AreaCalc.genruntimeconfig.cache
+C:\Users\senai\source\repos\AreaCalc\AreaCalc\obj\Debug\net8.0-windows\ref\AreaCalc.dll
