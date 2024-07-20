@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.Form1.resources
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.AssemblyInfo.cs
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\bin\Debug\net8.0-windows\QueHorasSao.exe
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\bin\Debug\net8.0-windows\QueHorasSao.deps.json
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\bin\Debug\net8.0-windows\QueHorasSao.runtimeconfig.json
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\bin\Debug\net8.0-windows\QueHorasSao.dll
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\bin\Debug\net8.0-windows\QueHorasSao.pdb
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.dll
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\refint\QueHorasSao.dll
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.pdb
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\QueHorasSao.genruntimeconfig.cache
+C:\Users\senai\source\repos\QueHorasSao\QueHorasSao\obj\Debug\net8.0-windows\ref\QueHorasSao.dll
